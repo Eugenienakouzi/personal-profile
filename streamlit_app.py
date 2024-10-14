@@ -90,6 +90,14 @@ st.markdown("""
 # Section des projets récents avec les détails des projets
 st.markdown("<h2 style='text-align: center; color: #FF6347;'>🚀 Projets récents</h2>", unsafe_allow_html=True)
 
+
+st.markdown("""
+    <div style='text-align: center;'>
+        <h3 style='color: #32CD32; font-size: 24px; font-weight: bold;'> Jeu de Tir sur Cible</h3>
+        <p style='font-size: 16px;'>Jeu de tir réalisé en Réalité Virtuelle, Prise d'un pistolet en main pouvant tiré sur des ciblé qui apparaissent de manières aléatoire.🎯 <br> 
+        Développé avec Unity en C#.</p>
+    </div>
+""", unsafe_allow_html=True)
 # Projet Flappy Bird
 st.markdown("""
     <div style='text-align: center;'>
@@ -103,7 +111,7 @@ st.markdown("""
 st.markdown("""
     <div style='text-align: center;'>
         <h3 style='color: #32CD32; font-size: 24px; font-weight: bold;'>Combattack</h3>
-        <p style='font-size: 16px;'>Un jeu en 3D en cours de développement. Le joueur, vue en troisième personne, affronte un monstre. ⚔️<br> 
+        <p style='font-size: 16px;'>Un jeu en 3D en cours de développement. Le joueur, vue à la troisième personne, affronte un monstre. ⚔️<br> 
         Développé avec Unity en C#.</p>
     </div>
 """, unsafe_allow_html=True)
